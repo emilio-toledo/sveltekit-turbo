@@ -6,11 +6,13 @@
 		"build": "turbo run build",
 		"dev": "turbo run dev",
 		"lint": "turbo run lint",
-		"format": "turbo run format"
+		"format": "turbo run format",
+		"commit": "czg"
 	},
 	"devDependencies": {
 		"@biomejs/biome": "latest",
 		"bun-types": "latest",
+		"czg": "^1.7.1",
 		"turbo": "latest"
 	},
 	"packageManager": "bun@1.0.8",

@@ -1,0 +1,13 @@
+{
+	"name": "ui",
+	"module": "index.ts",
+	"type": "module",
+	"svelte": "index.ts",
+	"scripts": {
+		"lint": "biome check --apply .",
+		"format": "biome format --write ."
+	},
+	"devDependencies": {
+		"svelte": "^4.2.2"
+	}
+}

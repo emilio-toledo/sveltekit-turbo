@@ -21,7 +21,7 @@ To get started with this template, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/sveltekit-turborepo-template.git
+   git clone git@github.com:emilio-toledo/sveltekit-turbo.git
    ```
 
 2. Change into the project directory:

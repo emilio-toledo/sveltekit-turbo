@@ -12,9 +12,7 @@
 		"commit": "czg"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "latest",
-		"bun-types": "latest",
-		"czg": "^1.7.1",
+		"czg": "latest",
 		"turbo": "latest"
 	},
 	"packageManager": "bun@1.0.8",

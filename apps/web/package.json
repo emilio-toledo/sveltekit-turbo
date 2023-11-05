@@ -7,7 +7,8 @@
 		"build": "vite build",
 		"preview": "vite preview",
 		"lint": "biome check --apply .",
-		"format": "biome format --write ."
+		"format": "biome format --write .",
+		"test": "bun test ."
 	},
 	"dependencies": {
 		"ui": "*"

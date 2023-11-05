@@ -3,10 +3,12 @@
 	"module": "index.ts",
 	"type": "module",
 	"scripts": {
-		"build": "turbo run build",
 		"dev": "turbo run dev",
+		"build": "turbo run build",
+		"preview": "turbo run preview",
 		"lint": "turbo run lint",
 		"format": "turbo run format",
+		"test": "turbo run test",
 		"commit": "czg"
 	},
 	"devDependencies": {
